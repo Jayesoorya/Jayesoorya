@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jayesoorya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...React JS, TypeScript
-- 💞️ I’m looking for job to collaborate on Projects  and learn new tech in a company
+- 🌱 I’m currently learning ...php
 - 📫 How to reach me : jayesoorya@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I am single
