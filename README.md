@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jayesoorya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...php
+- 💻 I'm a Full Stack Developer
+- 🚀 I specialize in PHP, Laravel, MySQL, REST APIs, HTML, CSS, JavaScript & Vue
+- 🛠️ I build scalable web applications from backend logic to frontend UI
 - 📫 How to reach me : jayesoorya@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I am single
